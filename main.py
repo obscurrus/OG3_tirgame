@@ -26,3 +26,5 @@ while running:
     pass
 
 pygame.quit()
+
+#первый тестовый комит og04
