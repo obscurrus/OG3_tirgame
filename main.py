@@ -2,7 +2,7 @@ import pygame
 import random
 
 pygame.init()
-
+# тест конфликта
 SCREEN_W = 800
 SCREEN_H = 600
 screen = pygame.display.set_mode((SCREEN_W, SCREEN_H))
@@ -38,3 +38,6 @@ while running:
 
 
 pygame.quit()
+
+#первый тестовый комит og04
+#second test comit
