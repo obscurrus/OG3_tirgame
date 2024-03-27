@@ -3,6 +3,7 @@ import random
 
 pygame.init()
 # тест конфликта
+
 SCREEN_W = 800
 SCREEN_H = 600
 screen = pygame.display.set_mode((SCREEN_W, SCREEN_H))
