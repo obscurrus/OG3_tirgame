@@ -28,3 +28,4 @@ while running:
 pygame.quit()
 
 #первый тестовый комит og04
+#second test comit
